@@ -4,17 +4,6 @@ from streamlit_option_menu import option_menu
 from PIL import Image
 import os
 
-
-import streamlit as st
-from streamlit_option_menu import option_menu
-
-st.set_page_config(
-    page_title="Silkar Sales & Marketing Internal Hub",
-    page_icon="🏢",
-    layout="wide"
-)
-)
-
 # --- 1. KONFIGURASI HALAMAN ---
 st.set_page_config(page_title="PT SILKAR NATIONAL - Internal Portal", page_icon="🏢", layout="wide")
 
